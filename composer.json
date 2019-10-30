@@ -1,0 +1,14 @@
+{
+    "name": "lic/new-composer",
+    "description": "Hola mundo en composer",
+    "authors": [
+        {
+            "name": "ulistudio",
+            "email": "hola@ulistudio.com"
+        }
+    ],
+    "require": {
+    "cloudinary/cloudinary_php": "dev-master"
+  }
+
+}
